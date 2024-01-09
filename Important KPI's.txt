@@ -1,0 +1,17 @@
+1. Customer Order KPIs:
+
+Total number of customer orders: 14
+Average number of pizzas per order: Approximately 1.57
+Percentage of orders with exclusions: 57.14%
+Percentage of orders with extras: 35.71%
+
+2. Runner and Delivery KPIs:
+
+Average delivery duration: Approximately 21.57 minutes
+Average distance traveled per delivery: Approximately 17.81 km
+Percentage of successful deliveries: 70%
+
+3. Pizza Ingredients KPIs:
+
+Most commonly added extra: '1' (Assuming '1' corresponds to an extra, you may need to map this to the actual ingredient)
+Most common exclusion: '4' (Assuming '4' corresponds to an exclusion, you may need to map this to the actual ingredient)
